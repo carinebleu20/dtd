@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE BLE>
+<famille>
+    <!--Bleu Carine  -->
+    <personne sexe="feminin">
+        <nom>Bleu</nom>
+        <prenom>Carine</prenom>
+        <adresse>
+            <numero>3</numero>
+            <voie type="impasse">impasse du chemin</voie>
+            <codePostal>25 BP015</codePostal>
+            <ville>Abidjan</ville>
+            <pays>Côte d'Ivoire</pays>
+        </adresse>
+        <telephones>
+            <telephone type="fixe">22 45 86 91</telephone>
+            <telephone type="portable">03 06 99 40</telephone>
+        </telephones>
+        <emails>
+            <email type="personnel">carinebleu20@gmail.com</email>
+            <email type="professionnel">carinebleu@net.com</email>
+        </emails>
+    </personne>
+    
+    <!-- Bleu Richard -->
+    <personne sexe="masculin">
+        <nom>Bleu</nom>
+        <prenom>Richard</prenom>
+        <adresse>
+            <numero>7</numero>
+            <voie type="avenue">avenue de la république</voie>
+            <codePostal>130 BP05</codePostal>
+            <ville>MAN</ville>
+            <pays>Côte d'Ivoire</pays>
+        </adresse>
+        <telephones>
+            <telephone type="professionnel">04 01 22 55</telephone>
+        </telephones>
+        <emails>
+            <email type="professionnel">richard@bleu.fr</email>
+        </emails>
+    </personne>
+    <!-- Bleu Richmond -->
+    <personne sexe="masculin">
+    	<nom>Bleu</nom>
+    	<prenom>Richmond</prenom>
+    	<adresse>
+    		<numero>22</numero>
+    		<voie type="avenue">avenue 16</voie>
+    		<codePostal>122 BP05</codePostal>
+    		<ville>Abidjan</ville>
+    		<pays>Côte d'Ivoire</pays>
+    	</adresse>
+    	<telephones>
+    		<telephone type="personnel">01 02 05 09</telephone>
+    	</telephones>
+    </personne>
+</famille>
